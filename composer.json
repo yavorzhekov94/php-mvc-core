@@ -2,7 +2,7 @@
     "name": "yzh/php-mvc-core",
     "autoload": {
         "psr-4": {
-            "yzh\\phhpmvc": "./"
+            "yzh\\phhpmvc\\": "."
         }
     },
     "authors": [
