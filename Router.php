@@ -1,14 +1,14 @@
 <?php
 
-namespace app\core;
+namespace yzh\phhpmvc;
 
-use app\core\exception\NotFoundException;
+use yzh\phhpmvc\exception\NotFoundException;
 
 /**
  * Class Router
  * 
  * @author Yavor Zhekov
- * @package app\core
+ * @package yzh\phhpmvc
  */
 class Router
 {
@@ -72,7 +72,7 @@ class Router
         }
 
         if (is_array($callback)) {
-            /** @var \app\core\Controller $controller */
+            /** @var \yzh\phhpmvc\Controller $controller */
             $controller = new $callback[0];
             Application::$app->controller = $controller;
             $controller->action = $callback[1];

@@ -1,15 +1,15 @@
 <?php
 
-namespace app\core;
+namespace yzh\phhpmvc;
 
-use app\core\db\DbModel;
-use app\core\db\Database;
+use yzh\phhpmvc\db\DbModel;
+use yzh\phhpmvc\db\Database;
 
 /**
  * Class Application
  * 
  * @author Yavor Zhekov
- * @package app\core
+ * @package yzh\phhpmvc
  */
 class Application
 {

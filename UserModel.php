@@ -1,14 +1,14 @@
 <?php
 
-namespace app\core;
+namespace yzh\phhpmvc;
 
-use app\core\db\DbModel;
+use yzh\phhpmvc\db\DbModel;
 
 /**
  * Class UserModel
  * 
  * @author Yavor Zhekov
- * @package app\core
+ * @package yzh\phhpmvc
  */
 abstract class UserModel extends DbModel
 {

@@ -3,12 +3,12 @@
  * Class Database
  * 
  * @author Yavor Zhekov
- * @package app\core
+ * @package yzh\phhpmvc
  */
 
-namespace app\core\db;
+namespace yzh\phhpmvc\db;
 
-use app\core\Application;
+use yzh\phhpmvc\Application;
 
 class Database
 {

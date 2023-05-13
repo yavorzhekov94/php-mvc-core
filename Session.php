@@ -1,13 +1,13 @@
 <?php
 
-namespace app\core;
+namespace yzh\phhpmvc;
 
 
 /**
  * Class Session
  * 
  * @author Yavor Zhekov
- * @package app\core
+ * @package yzh\phhpmvc
  */
 class Session
 {

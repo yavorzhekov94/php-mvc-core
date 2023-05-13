@@ -1,12 +1,12 @@
 <?php
 
-namespace app\core;
+namespace yzh\phhpmvc;
 
 /**
  * Class Response
  * 
  * @author Yavor Zhekov
- * @package app\core
+ * @package yzh\phhpmvc
  */
 class Response
 {

@@ -1,11 +1,11 @@
 <?php
 
-namespace app\core\middlewares;
+namespace yzh\phhpmvc\middlewares;
 /**
  * Class BaseMiddleware
  * 
  * @author Yavor Zhekov
- * @package app\core\middlewares
+ * @package yzh\phhpmvc\middlewares
  */
 abstract class BaseMiddleware
 {

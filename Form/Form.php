@@ -1,14 +1,14 @@
 <?php
 
-namespace app\core\Form;
+namespace yzh\phhpmvc\Form;
 
-use app\core\Model;
+use yzh\phhpmvc\Model;
 
 /**
  * Class Form
  * 
  * @author Yavor Zhekov
- * @package app\core\form
+ * @package yzh\phhpmvc\form
  */
 class Form
 {

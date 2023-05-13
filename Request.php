@@ -1,12 +1,12 @@
 <?php
 
-namespace app\core;
+namespace yzh\phhpmvc;
 
 /**
  * Class Request
  * 
  * @author Yavor Zhekov
- * @package app\core
+ * @package yzh\phhpmvc
  */
 class Request
 {

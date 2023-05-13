@@ -1,12 +1,12 @@
 <?php
 
-namespace app\core\exception;
+namespace yzh\phhpmvc\exception;
 
 /**
  * Class ForbiddenException
  * 
  * @author Yavor Zhekov
- * @package app\core\exception
+ * @package yzh\phhpmvc\exception
  */
 class ForbiddenException extends \Exception
 {

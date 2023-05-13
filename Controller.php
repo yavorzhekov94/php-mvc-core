@@ -1,20 +1,20 @@
 <?php
 
-namespace app\core;
+namespace yzh\phhpmvc;
 
-use app\core\middlewares\BaseMiddleware;
+use yzh\phhpmvc\middlewares\BaseMiddleware;
 
 /**
  * Class Controller
  * 
  * @author Yavor Zhekov
- * @package app\core
+ * @package yzh\phhpmvc
  */
 class Controller
 {
     
     /**
-     * @var \app\core\middlewares\BaseMiddleware
+     * @var \yzh\phhpmvc\middlewares\BaseMiddleware
      */
     protected array $middlewares = [];
 

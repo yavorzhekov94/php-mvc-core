@@ -1,13 +1,13 @@
 <?php
 
-namespace app\core\Form;
+namespace yzh\phhpmvc\Form;
 
 
 /**
  * Class TextareaField
  * 
  * @author Yavor Zhekov
- * @package app\core\form
+ * @package yzh\phhpmvc\form
  */
 class TextareaField extends BaseField
 {

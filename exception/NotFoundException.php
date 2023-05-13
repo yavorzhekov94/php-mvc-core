@@ -1,11 +1,11 @@
 <?php
 
-namespace app\core\exception;
+namespace yzh\phhpmvc\exception;
 /**
  * Class NotFoundException
  * 
  * @author Yavor Zhekov
- * @package app\core\exception
+ * @package yzh\phhpmvc\exception
  */
 class NotFoundException extends \Exception
 {

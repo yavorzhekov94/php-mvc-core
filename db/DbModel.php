@@ -1,15 +1,15 @@
 <?php
 
-namespace app\core\db;
+namespace yzh\phhpmvc\db;
 
-use app\core\Model;
-use app\core\Application;
+use yzh\phhpmvc\Model;
+use yzh\phhpmvc\Application;
 
 /**
  * Class DbModel
  * 
  * @author Yavor Zhekov
- * @package app\core
+ * @package yzh\phhpmvc
  */
 abstract class DbModel extends Model
 {
